@@ -11,7 +11,7 @@
       "catid": "3",
       "image": "https://raw.githubusercontent.com/haghayeghi/haghayeghi.github.io/main/foods/pizzaSmall1.png",
       "name": "Handsom Burger",
-      "hear": true,
+      "hear": false,
       "star": 3,
       "comments": 137,
       "readytime": "15 min",
