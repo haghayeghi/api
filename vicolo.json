@@ -34,6 +34,34 @@
         "S": 10,
         "M": 12,
         "L": 15
+      },
+          {
+      "id": "3",
+      "catid": "1",
+      "image": "https://raw.githubusercontent.com/haghayeghi/haghayeghi.github.io/main/foods/pizzaSmall3.png",
+      "name": "French Pizza",
+      "hear": true,
+      "star": 5,
+      "comments": 51,
+      "readytime": "30 min",
+      "price": {
+        "S": 10,
+        "M": 12,
+        "L": 15
+      },
+        {
+      "id": "4",
+      "catid": "1",
+      "image": "https://raw.githubusercontent.com/haghayeghi/haghayeghi.github.io/main/foods/pizzaSmall4.png",
+      "name": "Pizza Mixed",
+      "hear": false,
+      "star": 0,
+      "comments": 1,
+      "readytime": "30 min",
+      "price": {
+        "S": 10,
+        "M": 12,
+        "L": 15
       }
     }
   ]
