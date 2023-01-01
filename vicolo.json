@@ -9,7 +9,7 @@
     {
       "id": "1",
       "catid": "3",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/haghayeghi/haghayeghi.github.io/main/foods/pizzaSmall1.png",
       "name": "Handsom Burger",
       "hear": true,
       "star": 3,
@@ -24,7 +24,7 @@
     {
       "id": "2",
       "catid": "1",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/haghayeghi/haghayeghi.github.io/main/foods/pizzaSmall2.png",
       "name": "Pizza Peperoni",
       "hear": true,
       "star": 2,
