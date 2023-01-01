@@ -1,5 +1,10 @@
 {
-  "info":{"count":2,"pages":1,"next":null,"prev":null},
+  "info":{
+    "count":2,
+    "pages":1,
+    "next":null,
+    "prev":null
+  },
   "results": [
     {
       "id": "1",
