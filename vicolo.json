@@ -1,5 +1,6 @@
 {
-  "items": [
+  "info":{"count":2,"pages":1,"next":null,"prev":null},
+  "results": [
     {
       "id": "1",
       "catid": "3",
